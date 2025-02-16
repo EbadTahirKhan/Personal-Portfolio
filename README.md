@@ -1,6 +1,6 @@
 
 
-# My React Portfolio
+# **React Portfolio**
 
 Welcome to my React portfolio! This project showcases my skills, projects, and experience in web development using React.js and various other libraries and tools.
 
@@ -36,7 +36,7 @@ Welcome to my React portfolio! This project showcases my skills, projects, and e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anubhav-dev-web/3D-portfolio-.git
+   git clone https://github.com/EbadTahirKhan/Personal-Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -64,7 +64,8 @@ Welcome to my React portfolio! This project showcases my skills, projects, and e
 
 ## Screenshots
 
-![port folio](https://github.com/Anubhav-dev-web/3D-portfolio-/assets/80172002/32aeb23e-a619-4d0e-beca-141135c4d2c1)
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/e722d33f-c218-4eb0-92b8-00c0f305f027" />
+
 
 
 
